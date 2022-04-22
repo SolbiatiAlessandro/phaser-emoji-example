@@ -1,0 +1,19 @@
+{
+  "name": "emoji-match",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Boot.js",
+  "scripts": {
+    "build": "./node_modules/webpack-cli/bin/cli.js --mode development"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "phaser": "^3.55.2",
+    "webpack": "^5.72.0",
+    "webpack-cli": "^4.9.2"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^4.8.1"
+  }
+}
